@@ -1,9 +1,9 @@
 <?php
 require_once 'firebaseLib.php';
 // --- This is your Firebase URL
-$url = 'blazing-inferno-5743.firebaseio.com';
+$url = 'relectrify-9a96b.firebaseio.com';
 // --- Use your token from Firebase here
-$token = 'TWBvYkoUUmtqitrBV69IB2fzPYb2wk4b7f7tMXMV';
+$token = '';
 // --- Here is your parameter from the http GET
 $YOUR_data = $_GET['YOUR_data'];
 // --- Set up your Firebase url structure here
